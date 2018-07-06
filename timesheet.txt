@@ -1,0 +1,29 @@
+8/2/2017 20:00-22:00 Project Proposal & Competiticve Analysis
+8/3/2017 10:40-11:00 barebone + create player and character objects
+8/3/2017 14:00-16:00 eyes tracked with player
+8/3/2017 21:00-22:00 storyboard & Project Proposal edit
+8/3/2017 22:00-23:00 Character movable, Key press simultaneously setting
+8/4/2017 10:40-11:00 Character moves, stays in the center of the map
+8/4/2017 18:30-22:00 map Generated (walls) walls are usually covered each other 
+8/5/2017 10:30-12:30 Enemies Generated(can't move), create weapon class 
+8/5/2017 13:30-15:30 player is able to shoot
+8/5/2017 16:30-18:30 create isLegalMove function, useful for map generated and ensure player is moving correctly
+8/5/2017 20:00-22:00 enemies random movement, they are now able to move around the board without colliding
+8/6/2017 10:30-12:30 draw arrow
+8/6/2017 13:30-18:00 enemies to have automated shooting function & level-up & health-increase function
+8/6/2017 20:30-24:00 fixing bugs over shooting function
+8/7/2017 09:30-12:30 improve enemies random movement mechanism, along with autoshooting
+8/7/2017 13:00-15:30 add blood
+8/7/2017 15:30-17:00 add new weapon (class: fireball)
+8/7/2017 19:00-21:00 add option menu
+8/8/2017 09:00-11:00 make option menu works with different game modes
+8/8/2017 13:30-15:30 add new weapon (class: saber)
+8/8/2017 16:00-18:00 limit-time mode & infinity mode & evolve mode displayed in option menu/ code artifact
+8/8/2017 20:00-24:00 Improve AI: avoid attack & find HP when injured & shoot back the stalker (making fraught) & find XP when encounter no one
+8/9/2017 08:00-10:00 improving instructions & option menu
+8/9/2017 10:00-14:00 Project Video
+8/9/2017 14:00-15:00 Render Video and upload  
+
+
+
+
